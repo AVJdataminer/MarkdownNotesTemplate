@@ -1,0 +1,30 @@
+---
+title: "Working Notes"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document:
+    toc: true
+    fig_caption: true
+    theme: flatly
+---
+
+ \+ Is work in progress  
+ \- project To do's  
+ \* Completed steps  
+ \~ Future tasks  
+    
+#### Primary Workload  
+
+--- 
+
+####During the Day Changes to workload  
+
+---  
+
+#### Minute Clinic meeting Notes 
+
+---
+
+#### For Later
+  
+

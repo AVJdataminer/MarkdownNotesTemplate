@@ -1,0 +1,53 @@
+---
+title: "Untitled"
+author: "Your Name"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document:
+    toc: true
+    fig_caption: true
+    theme: flatly
+---
+
+ \+ Is work in progress  
+ \- project To do's  
+ \* Completed steps  
+ \~ Future tasks  
+ 
+    
+## Primary Workflow  
+
+Started working on nice model summary and reorganization of polynomial modeling work  
+    \* need to send Francois an updated output with self weighted clinics    
+    Files: Weighted_loop_20JUL18.R  
+           Getting June VPHPP_072318.R  
+    \- Update model with June VPHPP instead of VPH and resend to Francois    
+    
+    \- Create an outer function around the four loops that wraps up the outputs
+    The function will:
+      - 1. ask for a name of this version 
+      - 2. create a new folder with the version name
+      - 3. run the function with new input montly 2018 data and same 2017 data
+      - 4. Save predictions and coefficients out to output folder
+      - 5. read in predictions and collate to the new version named folder
+      - 6. read in coeffs and collate to new version named folder
+      
+      
+ ~ need to create a way to record iterations and model chosen
+    Notes: Run each version output to a subfolderin dated folder and named by change or specificity
+    
+ + need to seperate am and pm data and remodel
+ 
+ + need to develop model with DWT for hourly volume estimates (R package is available)  
+
+--- 
+
+## During the Day Changes to workflow  
+
+---  
+
+##  Minute Clinic meeting Notes 
+
+---
+
+#### For Later
