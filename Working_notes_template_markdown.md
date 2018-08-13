@@ -17,14 +17,11 @@ output:
     
 ## Primary Workflow    
 
-Started working on nice model summary and reorganization of polynomial modeling work  
-    \* need to send Francois an updated output with self weighted clinics    
-    Files: Weighted_loop_20JUL18.R  
-           Getting June VPHPP_072318.R  
-    \- Update model with June VPHPP instead of VPH and resend to Francois    
-    
-    \- Create an outer function around the four loops that wraps up the outputs
-    The function will:
+Started working on nice model summary and re-organization of polynomial modeling work  
+    \* need to send update    
+    Files:  
+   \- 1.
+   \- 2.
  
 
 --- 
@@ -33,7 +30,7 @@ Started working on nice model summary and reorganization of polynomial modeling 
 
 ---  
 
-##  Minute Clinic meeting Notes 
+##  Meeting Notes 
 
 ---
 
