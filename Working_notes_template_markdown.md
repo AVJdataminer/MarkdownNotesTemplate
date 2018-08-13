@@ -18,10 +18,14 @@ output:
 ## Primary Workflow    
 
 Started working on nice model summary and re-organization of polynomial modeling work  
-    \* need to send update    
+    \* need to send update      
+    
     Files:  
-   \- 1.
-   \- 2.
+    
+      
+   \- 1.  
+   \- 2.  
+   
  
 
 --- 
