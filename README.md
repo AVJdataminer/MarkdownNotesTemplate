@@ -2,15 +2,15 @@
 A template for keeping data science project notes in markdown
 
 ---
-title: "Untitled"
-author: "Your Name"
-date: "today's is: "
-output:
-  html_document:
-    toc: true
-    fig_caption: true
-    theme: flatly
----
+title: "Untitled" . 
+author: "Your Name" . 
+date: "today's is: "  
+output:  
+  html_document:  
+    toc: true  
+    fig_caption: true . 
+    theme: flatly  
+---  
 
  \+ Is work in progress  
  \- project To do's  
